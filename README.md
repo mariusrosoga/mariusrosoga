@@ -6,5 +6,5 @@ If you want me to work on a project, don't hesitate to contact me on one of my [
 
 - 🔭 I’m a GO (Golang) backend software engineer with a background in building microservices. 
 - 🔭 I’m currently working on a concept for building micro-services as a lego architecture: [Connectiker](https://github.com/connectiker). 
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning [Svelte](https://svelte.dev)
 - 📫 My LinkedIn profile: [Marius Rosoga](https://www.linkedin.com/in/mariusrosoga/)
